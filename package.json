@@ -1,16 +1,15 @@
 {
-  "name": "a5",
+  "name": "a6",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Divyang",
+  "author": "divyang",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  },
-  "devDependencies": {},
-  "description": ""
+  }
 }
